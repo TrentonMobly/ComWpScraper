@@ -24,7 +24,7 @@ def printascii():
 \____/\___/|_| |_| |_|\/  \/ | .__/\__/\___|_|  \__,_| .__/ \___|_|       
                              |_|                     |_|                                   
             
-               By Luca Romano - CyberAuror                        
+               By Trenton Mobley - CyberAuror                        
           """)
 
 printascii()
